@@ -1,13 +1,13 @@
 # Data Types in python
 """
 1. Integer
-2.Float
+2. Float
 3. Boolean
 4. String
 5. Complex
 6. List
 7. Tuple
-8.Sets
+8. Sets
 9. Dictionary
 
 """
